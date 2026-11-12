@@ -4,7 +4,6 @@ This repository presents the Landau singularities calculated for various six-poi
 The calculations were done with the help of the Mathematica package SOFIA (2503.16601).
 In this repository one will find:
   - the input diagrams for the considered six-point one-mass Feynman integrals
-  - the optimized loop-by-loop Baikov representations used
   - the calculated lists of Landau singularities for each integral family
   - the lists containing only distinct irreducible factors
   - the lists containing the overlap with novel cluster-algebraic predictions (2603.16743) 
